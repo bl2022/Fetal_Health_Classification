@@ -68,7 +68,5 @@ We are an insurance company that provides health insurance for pregnant women in
 The MVP goal is to answer at least two of the questions I mentioned.
 
 ---
-
-###another
-
-Team:  [@Eman](https://github.com/Eeeemsa) ,  [@Yaqeen](https://github.com/yaqeen11) .
+## The team:
+  [@Eman](https://github.com/Eeeemsa) ,  [@Yaqeen](https://github.com/yaqeen11) .
