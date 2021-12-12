@@ -47,6 +47,9 @@ We are an insurance company that provides health insurance for pregnant women in
   - Logistic regression.
   - Random forest.
   - Knn.
+  - SVM.
+  - Decision Tree.
+  - Naive Bayes
 
 
 ## Tools:
