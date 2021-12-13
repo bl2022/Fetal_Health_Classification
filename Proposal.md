@@ -47,9 +47,6 @@ We are an insurance company that provides health insurance for pregnant women in
   - Logistic regression.
   - Random forest.
   - Knn.
-  - SVM.
-  - Decision Tree.
-  - Naive Bayes
 
 
 ## Tools:
@@ -59,17 +56,15 @@ We are an insurance company that provides health insurance for pregnant women in
 
 
 ## Questions:
+  - what is majority  class of fetal health?
   - What is the relationship between Baseline Fetal Heart Rate and uterine contractions for Pathological fetal?
   - Can uterine contractions and fetal movement express the fetal heath spacially Pathological type of fetal?
   - Can Fetal heart rate monitoring of short-term variation (STV) has a relationship with fetal health in terms of baseline value?
   - What is the relationship between severe decelerations and uterine contractions in each type of fetal health?
   - Does mean value of short term variability has a relationship with fetal health type in term of uterine contractions?
-  - what is majority  class of fetal health?
+  
 
 
 ## MVP Goal:
 The MVP goal is to answer at least two of the questions I mentioned.
 
----
-## The team:
-  [@Eman](https://github.com/Eeeemsa) ,  [@Yaqeen](https://github.com/yaqeen11) .
