@@ -1,4 +1,7 @@
 # Fetal health 
+<p align="center" width="100%">
+<img src="http://www.msif.org/wp-content/uploads/2018/09/Cardiovascular-for-website-900x0-c-default.png" />
+</p>
 
 ## Introduction:
 Classify fetal health in order to prevent child and maternal mortality.
@@ -43,7 +46,7 @@ We help company that provides health insurance for pregnant women in order to ma
 
 
 
-## Algorithms:
+## Classification Algorithms:
   - Decision Tree
   - Logistic regression.
   - Random forest.
