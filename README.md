@@ -1,4 +1,4 @@
-# Fetal_Health_Classification
+# Fetal Health Classification
 This project is done during the data science T5 bootcamp. 
 
 ![image](https://stream.org/wp-content/uploads/Scientist-Fetus-Embryo-healthy-Life-Baby-Science-Studies-900.jpg)
