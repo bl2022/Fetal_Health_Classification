@@ -1,7 +1,7 @@
 # Fetal_Health_Classification
 This project is done during the data science T5 bootcamp. 
 
-![image]<p>(https://stream.org/wp-content/uploads/Scientist-Fetus-Embryo-healthy-Life-Baby-Science-Studies-900.jpg)<\p>
+![image](https://stream.org/wp-content/uploads/Scientist-Fetus-Embryo-healthy-Life-Baby-Science-Studies-900.jpg)
 
 
 
@@ -9,8 +9,8 @@ This project is done during the data science T5 bootcamp.
 
 In this notebook I’ll Classify fetal health in order to prevent child and maternal mortality.
 So, We will divide the result into 2 classes :
-1-Normal
-2-Pathological
+-1-Normal
+-2-Pathological
 
 ### Contact Me
 
