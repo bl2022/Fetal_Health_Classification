@@ -9,6 +9,8 @@ This project is done during the data science T5 bootcamp.
 
 In this notebook I’ll Classify fetal health in order to prevent child and maternal mortality.
 So, We will divide the result into 2 classes :
+
+
 -1-Normal
 -2-Pathological
 
