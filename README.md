@@ -11,8 +11,9 @@ In this notebook I’ll Classify fetal health in order to prevent child and mate
 So, We will divide the result into 2 classes :
 
 
--1-Normal
--2-Pathological
+ 1-Normal
+ 
+ 2-Pathological
 
 ### Contact Me
 
